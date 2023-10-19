@@ -2,7 +2,7 @@
   
 
 <div align="center">
-<img src="https://media.giphy.com/media/dW3scyhfR4H406jrVU/giphy-downsized-large.gif" align="center" style="width: 100%" />
+<img src="engineer.gif" align="center" style="width: 100%" />
 </div>  
   
 
