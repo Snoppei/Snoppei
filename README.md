@@ -2,7 +2,7 @@
   
 
 <div align="center">
-<img src="engineer.gif" align="center" style="width: 100%" />
+<!-- <img src="engineer.gif" align="center" style="width: 100%" /> -->
 </div>  
   
 
