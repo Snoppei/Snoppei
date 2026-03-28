@@ -6,7 +6,7 @@
 </div>  
   
 
-###### <div align="center">Yandex.Eats ex-employee</div>  
+###### <div align="center">Yandex.Eats delivery courier</div>  
   
   
 
