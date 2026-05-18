@@ -1,10 +1,11 @@
-#### **<ins><div align="center">Pavel, Full-Stack Web Developer 👨‍💻 ex-employee at Yandex 🚀</div></ins>**
+#### **<ins><div align="center">💾 Pavel, Full-Stack Developer 📡</div></ins>**
 
 <div align="center">
-<img src="engineer.gif" align="center" style="width: 100%" />
+<!-- <img src="engineer.gif" align="center" style="width: 100%" /> sry my old friend -->
+<img src="penroseScreen.png" align="center" style="width: 100%" />
 </div>
 
-###### <div align="center">Yandex.Eats delivery courier</div>
+###### <div align="center">3000 Cycles (I Missed You)</div>
 
 <br/>
 
